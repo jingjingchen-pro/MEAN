@@ -1,0 +1,7 @@
+# 241121
+# 第一次commit的时候出现警告：在工作目录中的文件使用了 LF 作为行尾字符，但在下次 Git 处理这些文件时，会将其替换为 CRLF
+# 注：LF (Line Feed) 和 CRLF (Carriage Return Line Feed) 是两种不同的行尾字符。LF 通常用于 Unix 和 Linux 系统，而 CRLF 则用于 Windows 系统。
+# 不对所有文件进行行尾转换
+* -text 
+
+
