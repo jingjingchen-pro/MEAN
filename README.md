@@ -1,4 +1,11 @@
+#### Original work:https://github.com/genbing99/MEAN_Spot-then-recognize
+
+
+
+----
+
 ## MEAN architecture
+
 <img src='images/mean_architecture.jpg' width=900 height=400>
 Characteristics: </br>
 <ul>
